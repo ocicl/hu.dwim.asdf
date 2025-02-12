@@ -4,6 +4,6 @@ ASDF extensions used by most hu-dwim projects.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/hu-dwim/hu.dwim.asdf.git |
-| commit  | 4796e28                                         |
+| commit  | aae9def                                         |
 | systems | hu.dwim.asdf                                    |
 |---------+-------------------------------------------------|
